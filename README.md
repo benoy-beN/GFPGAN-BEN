@@ -102,6 +102,10 @@ If you want to use the original model in our paper, please see [PaperModel.md](P
     # If you want to enhance the background (non-face) regions with Real-ESRGAN,
     # you also need to install the realesrgan package
     pip install realesrgan
+    
+    venv\Lib\site-packages\basicsr\data\degradations.py
+    venv\Lib\site-packages\facexlib\detection\retinaface.py
+    
     ```
 
 ## :zap: Quick Inference
